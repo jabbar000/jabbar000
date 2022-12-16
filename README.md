@@ -1,5 +1,5 @@
 # jabbar000
-======================================================
+==========================================================================================================================================================
 this is my first portfolio of me learning Javascript combined with HTML, CSS, and DOM on my first month
 Starting with 
 1. Week 1 : if conditional + iteration (nested if and nested loop)
